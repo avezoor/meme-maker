@@ -14,7 +14,7 @@ export default function HomePage() {
       }}
     >
       <MemeMaker />
-      <footer className="mt-12 text-gray-600 dark:text-gray-400 text-sm">Dev by Avezoor</footer>
+      <footer className="mt-12 text-gray-600 dark:text-gray-400 text-sm"></footer>
     </div>
   )
 }
